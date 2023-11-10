@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http%20://ankitd2002.github.io/ReactProjects_WebDevelopment/static/css/main.decdb0db.css",
+    "main.js": "/http%20://ankitd2002.github.io/ReactProjects_WebDevelopment/static/js/main.969789c6.js",
+    "index.html": "/http%20://ankitd2002.github.io/ReactProjects_WebDevelopment/index.html",
+    "main.decdb0db.css.map": "/http%20://ankitd2002.github.io/ReactProjects_WebDevelopment/static/css/main.decdb0db.css.map",
+    "main.969789c6.js.map": "/http%20://ankitd2002.github.io/ReactProjects_WebDevelopment/static/js/main.969789c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.969789c6.js"
+  ]
+}
